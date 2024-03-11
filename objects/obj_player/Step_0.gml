@@ -8,7 +8,9 @@ repeat(abs(hsp))
     if (!place_meeting(x + sign(hsp), y, obj_solid))
 	{
         x += sign(hsp);
-    } else {
+    }
+	else
+	{
         hsp = 0;
         break;
     }
@@ -20,7 +22,9 @@ repeat(abs(vsp))
     if (!place_meeting(x, y + sign(vsp), obj_solid))
 	{
         y += sign(vsp);
-    } else {
+    }
+	else
+	{
         vsp = 0;
         break;
     }
