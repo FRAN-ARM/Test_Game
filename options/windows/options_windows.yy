@@ -4,6 +4,7 @@
   "name": "Windows",
   "ConfigValues": {
     "Dev": {"option_windows_description_info":"A GameMaker Game.","option_windows_copyright_info":"FRAN-ARM 2024","option_windows_product_info":"Test_Game","option_windows_company_info":"FRAN-ARM","option_windows_display_name":"Test_Game",},
+    "Prod": {"option_windows_description_info":"A GameMaker Game.","option_windows_copyright_info":"FRAN-ARM","option_windows_product_info":"Test_Game","option_windows_company_info":"FRAN-ARM","option_windows_display_name":"Test_Game","option_windows_allow_fullscreen_switching":"true",},
   },
   "option_windows_allow_fullscreen_switching": false,
   "option_windows_borderless": false,
