@@ -1,0 +1,23 @@
+{
+  "FolderOrderSettings": [
+    {"name":"Objects","order":9,"path":"folders/Objects.yy",},
+    {"name":"Rooms","order":10,"path":"folders/Rooms.yy",},
+    {"name":"Sprites","order":11,"path":"folders/Sprites.yy",},
+    {"name":"Systems","order":12,"path":"folders/Systems.yy",},
+    {"name":"Player","order":4,"path":"folders/Sprites/Player.yy",},
+    {"name":"Collisions","order":5,"path":"folders/Sprites/Collisions.yy",},
+    {"name":"Collisions","order":6,"path":"folders/Objects/Collisions.yy",},
+    {"name":"Controllers","order":7,"path":"folders/Objects/Controllers.yy",},
+    {"name":"Levels","order":8,"path":"folders/Sprites/Levels.yy",},
+    {"name":"Test","order":1,"path":"folders/Sprites/Levels/Test.yy",},
+  ],
+  "ResourceOrderSettings": [
+    {"name":"spr_player_stand","order":1,"path":"sprites/spr_player_stand/spr_player_stand.yy",},
+    {"name":"obj_controller_level","order":1,"path":"objects/obj_controller_level/obj_controller_level.yy",},
+    {"name":"execute_init","order":13,"path":"scripts/execute_init/execute_init.yy",},
+    {"name":"obj_solid","order":2,"path":"objects/obj_solid/obj_solid.yy",},
+    {"name":"spr_player_mask","order":3,"path":"sprites/spr_player_mask/spr_player_mask.yy",},
+    {"name":"spr_me","order":7,"path":"sprites/spr_me/spr_me.yy",},
+    {"name":"spr_player_turn","order":2,"path":"sprites/spr_player_turn/spr_player_turn.yy",},
+  ],
+}
